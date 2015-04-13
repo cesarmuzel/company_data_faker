@@ -8,7 +8,9 @@
   "groups": [
     "Administradores",
     "Usuários",
-    "Clientes"
+    "Clientes",
+    "Gestores",
+    "Colaboradores"
   ],
   "cost_centers": [
     "Geral",
